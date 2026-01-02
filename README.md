@@ -142,6 +142,7 @@ This project is shared under the Creative Commons Attribution-NonCommercial-NoDe
 
 You may copy and redistribute the script with proper attribution, but commercial use and modification are prohibited without permission. See the LICENSE file for details.
 
-Note: This workflow is part of an active research project. The repository is temporarily licensed under supervisory rights due to an ongoing publication process. License terms may change upon official publication.
+> Note: This workflow is part of an active research project. The repository is temporarily licensed under supervisory rights due to an ongoing publication process. License terms may change upon official publication.
+
 
 
