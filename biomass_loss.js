@@ -3,7 +3,6 @@
  * Lavras – MG | Setembro de 2025
  * Biomassa: GEDI L4A (Mg/ha)
  * Severidade: Sentinel-2 dNBR
- * Nível: Artigo científico
  ****************************************************/
 
 // 1. ÁREA DE ESTUDO
